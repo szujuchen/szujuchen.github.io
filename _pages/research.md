@@ -3,7 +3,6 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: true
-pageTitle: "Szu-Ju Chen"
 ---
 
 # Research Experiences 

@@ -3,7 +3,6 @@ layout: archive
 title: ""
 permalink: /work/
 author_profile: true
-pageTitle: "Szu-Ju Chen"
 ---
 
 # Work Experiences
@@ -33,7 +32,7 @@ Software Engineer Intern, Pixel Onboarding team | Jun. 2024 – Sep. 2024
 - Built an updatable Android package for onboarding flows, enabling rapid updates and bug fixes for the Pixel Onboarding team.
 - Designed and implemented data transfer workflows between modules, creating core logic, UI, and user flows.
 - Refactored legacy components into reusable libraries, added robust unit tests, and successfully passed 7 out of 7 internal QA test cases, leading to a successful production launch.
-Tools: Java, XML, Android app
+- Tools: Java, XML, Android app
 
 ---
 
@@ -43,6 +42,6 @@ STEP Intern (Student Training in Engineering Program), Pixel Testing team | Jun.
 - Integrated multiple network speed testing features into an internal Android app, which significantly improved the usability of modem testing.
 - Implemented FTP speed testing functionality for automation tests and app integration.
 - Delivered precise and reliable results under 5G environments, leading to the tool being adopted by internal teams.
-Tools: Java, Android app, Python, Automation Tests
+- Tools: Java, Android app, Python, Automation Tests
 
 ---
