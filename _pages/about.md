@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Welcome
+I am currently a Software Engineer at Google, working on Pixel’s Android apps. I am also National Taiwan University(NTU) class of 2025 B.S. in Computer Science.
 
-I am **Szu-Ju Chen**, a B.S. student in Computer Science and Information Engineering at **National Taiwan University**. My academic and research focus lies in **Web Retrieval and Mining, Natural Language Processing, and Computer Vision**. I am passionate about applying machine learning to solve real-world problems and have experience in developing applications and research prototypes.
+I began coding in high school and have since gained experience with Python, C, C++, Java, JavaScript, and React. Throughout my studies, I have explored various areas of computer science, including web mining, natural language processing, computer vision, and machine learning. Beyond coursework, I participated in an entrepreneurship program, where my team built a fan-connecting app, and I have also joined volunteer programs to support children in rural areas.
 
-I am currently seeking a Master's program to deepen my understanding and research skills in these fields. Feel free to explore my research, projects, and other experiences on this site.
+In addition to my academic journey, I have completed software engineering and machine learning internships at Google and Appier. I also conducted research with the Information Retrieval Lab (Prof. Pu-Jen Cheng, NTU) and visited the DATA Lab (Prof. Xia “Ben” Hu, Rice University).
+
+My current research interests lie in Information Retrieval, particularly in areas such as multi-agent systems, query style translation, and retrieval with images.
