@@ -25,8 +25,8 @@ author:
   avatar           : "me.jpg"
   name             : "Szu-Ju Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineer @ Google | B.S. in Computer Science, National Taiwan University"
-  location         : "Taiwan"
+  bio              : "Software Engineer @ Google <br>B.S. in Computer Science, National Taiwan University"
+  location         : "Taipei, Taiwan"
   employer         : # 
   uri              : # URL
   email            : "szjuchen@gmail.com" 
