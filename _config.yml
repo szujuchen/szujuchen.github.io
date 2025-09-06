@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Szu-Ju Chen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Szu-Ju Chen"
-description              : &description "personal description"
+description              : &description "Software Engineer at Google | B.S. in Computer Science, National Taiwan University"
 url                      : https://szujuchen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "szujuchen/szujuchen.github.io"
@@ -22,7 +22,7 @@ repository               : "szujuchen/szujuchen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Szu-Ju Chen"
   pronouns         : # example: "she/her"  
   bio              : "CS student graduated from National Taiwan University"
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : szu-ju-chen
+  linkedin         : szu-ju-chen-07483425b
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
