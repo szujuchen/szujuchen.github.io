@@ -2,9 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+pageTitle: "Szu-Ju Chen"
 ---
 
 I am currently a Software Engineer at Google, working on Pixel’s Android apps. I am also National Taiwan University(NTU) class of 2025 B.S. in Computer Science.

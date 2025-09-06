@@ -3,9 +3,8 @@ layout: archive
 title: "Interests"
 permalink: /interests/
 author_profile: true
+pageTitle: "Szu-Ju Chen Personal Website"
 ---
-
-# 🎨 Interests & Hobbies
 
 While my academic and professional work focuses on computer science, I also enjoy activities that spark creativity and reflection:  
 

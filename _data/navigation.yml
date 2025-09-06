@@ -18,7 +18,7 @@ main:
     url: /awards/    
     
   - title: "Interests"
-    url: /interest/
+    url: /interests/
     
   - title: "CV"
     url: /files/CV.pdf

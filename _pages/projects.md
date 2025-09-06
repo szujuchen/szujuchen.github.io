@@ -3,9 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+pageTitle: "Szu-Ju Chen"
 ---
-
-# Projects
 
 ## Information Retrieval and Extraction Final Project
 **Date:** Dec. 2024  
