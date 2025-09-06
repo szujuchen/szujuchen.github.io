@@ -5,10 +5,10 @@ author_profile: true
 pageTitle: "Szu-Ju Chen"
 ---
 
-I am currently a Software Engineer at Google, working on Pixel’s Android apps. I am also National Taiwan University(NTU) class of 2025 B.S. in Computer Science.
+I am currently a Software Engineer at Google, working on Pixel’s Android apps. I graduated in 2025 from National Taiwan University (NTU) with a B.S. in Computer Science and Information Engineering.
 
-I began coding in high school and have since gained experience with Python, C, C++, Java, JavaScript, and React. Throughout my studies, I have explored various areas of computer science, including web mining, natural language processing, computer vision, and machine learning. Beyond coursework, I participated in an entrepreneurship program, where my team built a fan-connecting app, and I have also joined volunteer programs to support children in rural areas.
+My coding journey started in high school and has since expanded to significant experiences in various areas of computer science, including web mining, natural language processing, computer vision, and machine learning. Through coursework and projects, I have developed a strong technical background in Python, C, C++, Java, JavaScript, and React. 
 
-In addition to my academic journey, I have completed software engineering and machine learning internships at Google and Appier. I also conducted research with the Information Retrieval Lab (Prof. Pu-Jen Cheng, NTU) and visited the DATA Lab (Prof. Xia “Ben” Hu, Rice University).
+My professional experience includes software engineering and machine learning internships at Google and Appier. On the research side, I've explored my interests in Information Retrieval through my work with the Information Retrieval Lab at NTU and a visiting research program at the DATA Lab at Rice University. My specific research interests include multi-agent systems, query style translation, and image-based retrieval.
 
-My current research interests lie in Information Retrieval, particularly in areas such as multi-agent systems, query style translation, and retrieval with images.
+Beyond my technical work, I have been actively involved in extracurricular activities. I participated in a creativity and entrepreneurship program where my team developed a fan-connecting app, and I've also volunteered in rural areas. In my free time, I enjoy photography and traveling.
