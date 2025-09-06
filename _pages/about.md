@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
-pageTitle: "Szu-Ju Chen"
 ---
+# About
 
 I am currently a Software Engineer at Google, working on Pixel’s Android apps. I graduated in 2025 from National Taiwan University (NTU) with a B.S. in Computer Science and Information Engineering.
 

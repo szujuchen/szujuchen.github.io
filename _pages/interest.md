@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Interests"
+title: ""
 permalink: /interests/
 author_profile: true
 pageTitle: "Szu-Ju Chen Personal Website"
 ---
+
+# Interests
 
 While my academic and professional work focuses on computer science, I also enjoy activities that spark creativity and reflection:  
 

@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Awards"
+title: ""
 permalink: /awards/
 author_profile: true
-pageTitle: "Szu-Ju Chen Personal Website"
 ---
+# Awards
 
 **National Taiwan University Fu Bell Scholarship** — *Jun. 2025*  
 Top 10% of students in the Computer Science and Information Engineering department

@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Experiences"
+title: ""
 permalink: /experiences/
 author_profile: true
 pageTitle: "Szu-Ju Chen"
 ---
+
+# Experiences
 
 # 🔬 Research Experience
 
