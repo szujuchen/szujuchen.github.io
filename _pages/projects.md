@@ -3,65 +3,39 @@ layout: archive
 title: ""
 permalink: /projects/
 author_profile: true
-pageTitle: "Szu-Ju Chen"
 ---
 
 # Projects
 
-## Information Retrieval and Extraction Final Project
-**Date:** Dec. 2024  
-**Description:** Developed a legal question answering system using Taiwanese laws.  
-**Highlights:**
-- Designed retrieval algorithms for improved search accuracy.
-- Trained a **Bi-Encoder model** and fine-tuned **Taiwan-LLaMA-3B** using both original and LLM-rewritten queries.
-**Links:** [GitHub](#) | [Slides](#) | [Demo](#)
+**Web Mining and Retrieval Final Project** | Jun. 2025 <br>
+[Github](https://github.com/szujuchen/Web-Retrieval-and-Mining_Final-Project) [Report](/files/WM_Report.pdf) [Slides](/files/WM_Slide.pdf)
 
----
+**Natural Language Processing Final Project** | Jun. 2025 <br>
+[Github](https://github.com/szujuchen/Natural-Language-Processing_Final-Project) [Report](/files/NLP_Report.pdf)
 
-## Computer Vision Practice with Deep Learning Final Project
-**Date:** Dec. 2024  
-**Description:** Built a pipeline for seamless indoor object replacement combining visual grounding and image inpainting.  
-**Highlights:**
-- Fine-tuned models on a **custom-collected dataset**.
-- Compared performance of **PowerPaint** and **BrushNet**.
-**Links:** [GitHub](#) | [Slides](#)
+**Information Retrieval and Extraction Final Project** | Dec. 2024 <br>
+[Github](https://github.com/szujuchen/Information-Retrieval-and-Extraction_Final-Project) [Report](/files/IRIE_Report.pdf) [Paper](/files/SIGIR_Paper.pdf) [Poster](/files/SIGIR_Poster.pdf)
 
----
+**Computer Vision Practice with Deep Learning Final Project** | Dec. 2024 <br>
+[Github](https://github.com/szujuchen/Computer-Vision-Practice-with-Deep-Learning_Final-Project) [Report](/files/CVPDL_Report.pdf) [Slides](/files/CVPDL_Slide.pdf)
 
-## Creativity and Entrepreneurship Program — Konnect
-**Date:** Sep. 2023 – Jun. 2024  
-**Description:** Led the development of a cross-platform app connecting fans and idols.  
-**Highlights:**
-- Built the MVP using **React Native**, integrated Google Maps, real-time data, user posts, and a GCP backend.
-- Delivered the app successfully and passed initial testing.
-**Links:** [GitHub](#) | [Demo](#)
+**Creativity and Entrepreneurship Program — Konnect** | Sep. 2023 - Jun. 2024 <br>
+[Github](https://github.com/szujuchen/Konnect) [Slide](/files/Konnect_Slide.pdf)
 
----
+**Digital Image Processing Final Project** | Jun. 2024 <br>
+[Github](https://github.com/szujuchen/Digital-Image-Processing_Final-Project) [Report](/files/DIP_Report.pdf) [Slide](/files/DIP_Slide.pdf)
 
-## 2024 MakeNTU: Explorer Hackathon
-**Date:** Mar. 2024 – May 2024  
-**Description:** Developed backend services for a smart storage robot controlled via a simple user interface.  
-**Highlights:**
-- Implemented **Firebase API** backend for robot control.
-- Supported training for **object recognition models**, improving classification accuracy.
-**Links:** [GitHub](#) | [Demo](#)
+**2024 MakeNTU: Explorer Hackathon - Ctrl-F Automonous storage robot** | Mar. 2024 – May 2024 <br>
+[Github](https://github.com/szujuchen/MakeNTU-CtrlF) [Slide](/files/MakeNTU_Slide.pptx)
 
----
+**Applied Deep Learning Final Project** | Apr. 2023 – Jun. 2023 <br>
+[Github](https://github.com/szujuchen/Applied-Deep-Learning_Final-Project) [Report](/files/ADL_Report.pdf)
 
-## Applied Deep Learning Final Project
-**Date:** Apr. 2023 – Jun. 2023  
-**Description:** Explored Chinese grammar error correction using modern language models.  
-**Highlights:**
-- Used **BART**, **mT5**, and **Taiwan-LLaMA** for correction tasks.
-- Fine-tuned **google/mt5-small** on an open dataset; evaluated with Exact-Match and M² metrics.
-**Links:** [GitHub](#) | [Slides](#)
+**Machine Learning Final Project** | Apr. 2023 – Jun. 2023 <br>
+[Github](https://github.com/szujuchen/Machine-Learning_Final-Project) [Report](/files/ML_Report.pdf)
 
----
+**Data Structure and Advanced Programming Final Project - Snake Control** | May 2022 - Jun. 2022 <br>
+[Github](https://github.com/szujuchen/Snake-Control) [Report](/files/DSAP_Report.pdf)
 
-## Machine Learning Final Project
-**Date:** Apr. 2023 – Jun. 2023  
-**Description:** Predicted song danceability using handcrafted features and multiple ML techniques.  
-**Highlights:**
-- Applied regression, decision trees, random forests, and boosting methods.
-- Ranked **1st for least overfitting** and **5th on the private leaderboard**.
-**Links:** [GitHub](#) | [Slides](#)
+**Programming Design Final Project - Professor Jump** | Dec. 2021 - Jan. 2022 <br>
+[Github](https://github.com/szujuchen/Professor-Jump) [Report](/files/PD_Report.pdf)
