@@ -7,7 +7,7 @@ author_profile: true
 
 # Research Experiences 
 
-**MACHI Program in DATA Lab — Rice University, United States**
+**MACHI Program in DATA Lab — Rice University, United States**<br>
 Visiting Student | Feb. 2025 – Mar. 2025 | Advisor: Dr. Xia Ben Hu
 
 I worked with my mentor, Yu-Neng Chuang, on a new project that focused on improving the efficiency of routing frameworks for visual question understanding. We successfully reproduced state-of-the-art results and introduced a routing agent to an existing framework. This agent performs an additional decision making before the Vision-and-Language Model (VLM) is called, which reduces redundant cropping processing time and enhances overall accuracy.
@@ -20,13 +20,12 @@ Key Results:
 [Poster](/files/machi_poster.pdf) [Github](https://github.com/szujuchen/Rice-MACHI-Program)
 
 ---
-
 **Information Retrieval Lab — National Taiwan University, Taiwan**  
 Special Research Student | Sep. 2023 – Jan. 2025 | Advisor: Dr. Pu Jen Cheng
 
 During my time at the IR lab, I conducted two primary projects under the guidance of Dr. Pu-Jen Cheng.
 
-### Project 1: Personalized Recommendation System
+**Project 1: Personalized Recommendation System** <br>
 This project focused on developing a personalized music recommendation algorithm. I used the power of Large Language Models (LLMs) to extract additional information from user queries to retrieve more semantically relevant search results. I then combined this with user behavior and historical data to deliver the final recommendations.
 
 Key Results:
@@ -38,8 +37,7 @@ Key Results:
 
 ---
 
-### Project 2: Image Retrieval Indexing
-
+**Project 2: Image Retrieval Indexing**<br>
 This project involved researching a new indexing strategy for image retrieval. Inspired by the paper [IRGen](https://arxiv.org/abs/2303.10126), which uses a VQVAE mechanism to turn images into individual indexes. I experimented with adding a contrastive learning algorithm into the encoding and retrieval steps.
 
 Key Results:

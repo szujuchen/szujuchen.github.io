@@ -7,7 +7,7 @@ author_profile: true
 
 # Work Experiences
 
-**Google — New Taipei City, Taiwan**
+**Google — New Taipei City, Taiwan**<br>
 Software Engineer, Clock and Calculator team | Aug. 2025 – Present  
 
 - Maintain and support production applications, resolving user-reported UI issues within tight deadlines.
@@ -17,7 +17,7 @@ Software Engineer, Clock and Calculator team | Aug. 2025 – Present
 
 ---
 
-**Appier — Taipei City, Taiwan**  
+**Appier — Taipei City, Taiwan**<br> 
 Machine Learning Scientist Intern, Cross-X team | Sep. 2024 – May 2025  
 
 - Resolved a one-epoch overfitting issue in a recommendation model, which improved CTR and click prediction accuracy by 5%.
