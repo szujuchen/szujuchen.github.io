@@ -7,7 +7,7 @@ author_profile: true
 
 # Research Experiences 
 
-## MACHI Program in DATA Lab — Rice University, United States  
+**MACHI Program in DATA Lab — Rice University, United States**
 Visiting Student | Feb. 2025 – Mar. 2025 | Advisor: Dr. Xia Ben Hu
 
 I worked with my mentor, Yu-Neng Chuang, on a new project that focused on improving the efficiency of routing frameworks for visual question understanding. We successfully reproduced state-of-the-art results and introduced a routing agent to an existing framework. This agent performs an additional decision making before the Vision-and-Language Model (VLM) is called, which reduces redundant cropping processing time and enhances overall accuracy.
@@ -21,7 +21,7 @@ Key Results:
 
 ---
 
-## Information Retrieval Lab — National Taiwan University, Taiwan  
+**Information Retrieval Lab — National Taiwan University, Taiwan**  
 Special Research Student | Sep. 2023 – Jan. 2025 | Advisor: Dr. Pu Jen Cheng
 
 During my time at the IR lab, I conducted two primary projects under the guidance of Dr. Pu-Jen Cheng.

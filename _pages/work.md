@@ -7,7 +7,7 @@ author_profile: true
 
 # Work Experiences
 
-## Google — New Taipei City, Taiwan  
+**Google — New Taipei City, Taiwan**
 Software Engineer, Clock and Calculator team | Aug. 2025 – Present  
 
 - Maintain and support production applications, resolving user-reported UI issues within tight deadlines.
@@ -17,7 +17,7 @@ Software Engineer, Clock and Calculator team | Aug. 2025 – Present
 
 ---
 
-## Appier — Taipei City, Taiwan  
+**Appier — Taipei City, Taiwan**  
 Machine Learning Scientist Intern, Cross-X team | Sep. 2024 – May 2025  
 
 - Resolved a one-epoch overfitting issue in a recommendation model, which improved CTR and click prediction accuracy by 5%.
@@ -26,7 +26,7 @@ Machine Learning Scientist Intern, Cross-X team | Sep. 2024 – May 2025
 
 ---
 
-## Google — New Taipei City, Taiwan  
+**Google — New Taipei City, Taiwan**  
 Software Engineer Intern, Pixel Onboarding team | Jun. 2024 – Sep. 2024  
 
 - Built an updatable Android package for onboarding flows, enabling rapid updates and bug fixes for the Pixel Onboarding team.
@@ -36,7 +36,7 @@ Software Engineer Intern, Pixel Onboarding team | Jun. 2024 – Sep. 2024
 
 ---
 
-## Google — New Taipei City, Taiwan  
+**Google — New Taipei City, Taiwan**  
 STEP Intern (Student Training in Engineering Program), Pixel Testing team | Jun. 2023 – Sep. 2023
 
 - Integrated multiple network speed testing features into an internal Android app, which significantly improved the usability of modem testing.
