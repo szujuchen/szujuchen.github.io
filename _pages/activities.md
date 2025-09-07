@@ -15,8 +15,8 @@ Sep. 2024 - Dec. 2024
 - Visited a local school and participated in activities with the students.
 
 <p align="left">
-  <img src="/images/icl1.jpg" height="80" alt="ICL photo 1">
-  <img src="/images/icl2.JPG" height="80" alt="ICL photo 2">
+  <img src="/images/icl1.jpg" style="height: 200px;" alt="ICL photo 1">
+  <img src="/images/icl2.JPG" style="height: 200px;" alt="ICL photo 2">
 </p>
 
 ### Hualien Yuli Township Dayu Elementary School Volunteer Service
@@ -26,9 +26,9 @@ Jan. 2024
 - Taught two courses: natural science experiments and an introduction to media literacy.
 
 <p align="left">
-  <img src="/images/dayu1.JPEG" height="80" alt="Dayu photo 1">
-  <img src="/images/dayu2.JPEG" height="80" alt="Dayu photo 2">
-  <img src="/images/dayu3.jpg" height="80" alt="Dayu photo 3">
+  <img src="/images/dayu1.JPEG" style="height: 200px;" alt="Dayu photo 1">
+  <img src="/images/dayu2.JPEG" style="height: 200px;" alt="Dayu photo 2">
+  <img src="/images/dayu3.jpg" style="height: 200px;" alt="Dayu photo 3">
 </p>
 
 ### Hualien Fengbin Community Volunteer Service
@@ -38,9 +38,9 @@ Jan. 2023
 - Taught three courses: career exploration, Taiwanese geography, and personal boundaries awareness.
 
 <p align="left">
-  <img src="/images/fengbin1.JPG" height="80" alt="Fengbin photo 1">
-  <img src="/images/fengbin2.JPG" height="80" alt="Fengbin photo 2">
-  <img src="/images/fengbin3.JPG" height="80" alt="Fengbin photo 3">
+  <img src="/images/fengbin1.JPG" style="height: 200px;" alt="Fengbin photo 1">
+  <img src="/images/fengbin2.JPG" style="height: 200px;" alt="Fengbin photo 2">
+  <img src="/images/fengbin3.JPG" style="height: 200px;" alt="Fengbin photo 3">
 </p>
 
 ---
@@ -50,22 +50,22 @@ Jan. 2023
 I enjoy capturing moments on film, which has a distinct character and provides the pleasant surprise of seeing the final results after the film is developed.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
-  <img src="/images/film1.JPEG" height="80" style="display:inline-block;" alt="film photo 1">
-  <img src="/images/film2.JPEG" height="80" style="display:inline-block;" alt="film photo 2">
-  <img src="/images/film3.jpg" height="80" style="display:inline-block;" alt="film photo 3">
-  <img src="/images/film4.JPEG" height="80" style="display:inline-block;" alt="film photo 4">
-  <img src="/images/film5.jpg" height="80" style="display:inline-block;" alt="film photo 5">
+  <img src="/images/film1.JPEG"  style="height: 200px;display:inline-block;" alt="film photo 1">
+  <img src="/images/film2.JPEG"  style="height: 200px;display:inline-block;" alt="film photo 2">
+  <img src="/images/film3.jpg"  style="height: 200px;display:inline-block;" alt="film photo 3">
+  <img src="/images/film4.JPEG"  style="height: 200px;display:inline-block;" alt="film photo 4">
+  <img src="/images/film5.jpg"  style="height: 200px;display:inline-block;" alt="film photo 5">
 </div>
 
 ### Traveling
 I love exploring new places and am always in awe of the beautiful natural scenery they offer.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
-  <img src="/images/travel1.jpg" height="80" style="display:inline-block;" alt="travel photo 1">
-  <img src="/images/travel2.jpg" height="80" style="display:inline-block;" alt="travel photo 2">
-  <img src="/images/travel3.jpg" height="80" style="display:inline-block;" alt="travel photo 3">
-  <img src="/images/travel4.jpg" height="80" style="display:inline-block;" alt="travel photo 4">
-  <img src="/images/travel5.jpg" height="80" style="display:inline-block;" alt="travel photo 5">
-  <img src="/images/travel6.jpg" height="80" style="display:inline-block;" alt="travel photo 6">
-  <img src="/images/travel7.jpg" height="80" style="display:inline-block;" alt="travel photo 7">
+  <img src="/images/travel1.jpg"  style="height: 200px;display:inline-block;" alt="travel photo 1">
+  <img src="/images/travel2.jpg"  style="height: 200px;display:inline-block;" alt="travel photo 2">
+  <img src="/images/travel3.jpg"  style="height: 200px;display:inline-block;" alt="travel photo 3">
+  <img src="/images/travel4.jpg"  style="height: 200px;display:inline-block;" alt="travel photo 4">
+  <img src="/images/travel5.jpg"  style="height: 200px;display:inline-block;" alt="travel photo 5">
+  <img src="/images/travel6.jpg"  style="height: 200px;display:inline-block;" alt="travel photo 6">
+  <img src="/images/travel7.jpg"  style="height: 200px;display:inline-block;" alt="travel photo 7">
 </div>
