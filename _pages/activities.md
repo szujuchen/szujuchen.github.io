@@ -20,7 +20,7 @@ Sep. 2024 - Dec. 2024
 </p>
 
 ### National Taiwan University World Volunteer Service Club
-#### Hualien Yuli Township Dayu Elementary School Volunteer Service
+### Hualien Yuli Township Dayu Elementary School Volunteer Service
 Jan. 2024
 - Team Lead of an 8-member group that organized a three-day educational camp for rural elementary school students.
 - Managed communications between our team and the school administration.
@@ -32,7 +32,7 @@ Jan. 2024
   <img src="/images/dayu3.jpg" height="200" alt="Dayu photo 3">
 </p>
 
-#### Hualien Fengbin Community Volunteer Service
+### Hualien Fengbin Community Volunteer Service
 Jan. 2023
 - Participated in a five-day volunteer service project with the local community.
 - Joined community clean-up activities and organized a two-day camp for local elementary school students.
