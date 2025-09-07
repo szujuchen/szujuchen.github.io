@@ -8,8 +8,7 @@ author_profile: true
 # Activities
 
 ## Volunteer
-### National Taiwan University International Companion for Learning
-Sep. 2024 - Dec. 2024
+**National Taiwan University International Companion for Learning** | Sep. 2024 - Dec. 2024
 - Collaborated with international exchange students to deliver educational resources to children in rural areas.
 - Prepared culturally relevant lessons and fostered cross-cultural discussions.
 - Visited a local school and participated in activities with the students.
@@ -19,8 +18,7 @@ Sep. 2024 - Dec. 2024
   <img src="/images/icl2.JPG" style="height: 200px;" alt="ICL photo 2">
 </div>
 
-### Hualien Yuli Township Dayu Elementary School Volunteer Service
-Jan. 2024
+**Hualien Yuli Township Dayu Elementary School Volunteer Service** | Jan. 2024
 - Team Lead of an 8-member group that organized a three-day educational camp for rural elementary school students.
 - Managed communications between our team and the school administration.
 - Taught two courses: natural science experiments and an introduction to media literacy.
@@ -31,8 +29,7 @@ Jan. 2024
   <img src="/images/dayu3.jpg" style="height: 200px;" alt="Dayu photo 3">
 </div>
 
-### Hualien Fengbin Community Volunteer Service
-Jan. 2023
+**Hualien Fengbin Community Volunteer Service** | Jan. 2023
 - Participated in a five-day volunteer service project with the local community.
 - Joined community clean-up activities and organized a two-day camp for local elementary school students.
 - Taught three courses: career exploration, Taiwanese geography, and personal boundaries awareness.
@@ -46,7 +43,7 @@ Jan. 2023
 ---
 
 ## Hobbies
-### Film Photography
+**Film Photography**
 I enjoy capturing moments on film, which has a distinct character and provides the pleasant surprise of seeing the final results after the film is developed.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
@@ -57,7 +54,7 @@ I enjoy capturing moments on film, which has a distinct character and provides t
   <img src="/images/film5.jpg"  style="height: 200px;display:inline-block;" alt="film photo 5">
 </div>
 
-### Traveling
+**Traveling**
 I love exploring new places and am always in awe of the beautiful natural scenery they offer.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
