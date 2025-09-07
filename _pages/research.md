@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 # Research Experiences 
+---
+### Publications
+**SIGIR 2025 Short Paper**
+Retrieving the Right Law: Enhancing Legal Search with Style Translation [link](https://dl.acm.org/doi/10.1145/3726302.3730246)
+**Szu-Ju Chen**, Jing Jin, Sheng-Lun Wei, Chien-Hung Chen, Hsin-Hsi Chen
+
+---
 
 **MACHI Program in DATA Lab — Rice University, United States**<br>
 Visiting Student | Feb. 2025 – Mar. 2025 | Advisor: Dr. Xia Ben Hu
