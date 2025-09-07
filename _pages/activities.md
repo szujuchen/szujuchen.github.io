@@ -17,6 +17,7 @@ author_profile: true
   <img src="/images/icl1.jpg" style="height: 200px;" alt="ICL photo 1">
   <img src="/images/icl2.JPG" style="height: 200px;" alt="ICL photo 2">
 </div>
+<br>
 
 **Hualien Yuli Township Dayu Elementary School Volunteer Service** | Jan. 2024
 - Team Lead of an 8-member group that organized a three-day educational camp for rural elementary school students.
@@ -28,6 +29,7 @@ author_profile: true
   <img src="/images/dayu2.JPEG" style="height: 200px;" alt="Dayu photo 2">
   <img src="/images/dayu3.jpg" style="height: 200px;" alt="Dayu photo 3">
 </div>
+<br>
 
 **Hualien Fengbin Community Volunteer Service** | Jan. 2023
 - Participated in a five-day volunteer service project with the local community.
@@ -43,7 +45,7 @@ author_profile: true
 ---
 
 ## Hobbies
-**Film Photography**
+**Film Photography**<br>
 I enjoy capturing moments on film, which has a distinct character and provides the pleasant surprise of seeing the final results after the film is developed.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
@@ -53,8 +55,9 @@ I enjoy capturing moments on film, which has a distinct character and provides t
   <img src="/images/film4.JPEG"  style="height: 200px;display:inline-block;" alt="film photo 4">
   <img src="/images/film5.jpg"  style="height: 200px;display:inline-block;" alt="film photo 5">
 </div>
+<br>
 
-**Traveling**
+**Traveling**<br>
 I love exploring new places and am always in awe of the beautiful natural scenery they offer.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
