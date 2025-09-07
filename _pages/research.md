@@ -7,9 +7,9 @@ author_profile: true
 
 # Research Experiences 
 ---
-### Publications
-**SIGIR 2025 Short Paper**
-Retrieving the Right Law: Enhancing Legal Search with Style Translation [link](https://dl.acm.org/doi/10.1145/3726302.3730246)
+## Publications
+**SIGIR 2025 Short Paper** <br>
+Retrieving the Right Law: Enhancing Legal Search with Style Translation [link](https://dl.acm.org/doi/10.1145/3726302.3730246) <br>
 **Szu-Ju Chen**, Jing Jin, Sheng-Lun Wei, Chien-Hung Chen, Hsin-Hsi Chen
 
 ---
