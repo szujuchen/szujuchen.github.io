@@ -20,8 +20,8 @@ main:
   - title: "Awards"
     url: /awards/    
     
-  - title: "Interests"
-    url: /interests/
+  - title: "Activities"
+    url: /activities/
     
   - title: "CV"
     url: /files/CV.pdf
