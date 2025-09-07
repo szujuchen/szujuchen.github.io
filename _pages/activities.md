@@ -19,7 +19,6 @@ Sep. 2024 - Dec. 2024
   <img src="/images/icl2.JPG" height="80" alt="ICL photo 2">
 </p>
 
-### National Taiwan University World Volunteer Service Club
 ### Hualien Yuli Township Dayu Elementary School Volunteer Service
 Jan. 2024
 - Team Lead of an 8-member group that organized a three-day educational camp for rural elementary school students.
