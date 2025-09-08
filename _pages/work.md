@@ -44,4 +44,3 @@ STEP Intern (Student Training in Engineering Program), Pixel Testing team | Jun.
 - Delivered precise and reliable results under 5G environments, leading to the tool being adopted by internal teams.
 - Tools: Java, Android app, Python, Automation Tests
 
----

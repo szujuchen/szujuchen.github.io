@@ -6,9 +6,6 @@ author_profile: true
 ---
 # Awards
 
-**National Taiwan University Fu Bell Scholarship** | Jun. 2025<br>
-Top 10% of students in the Computer Science and Information Engineering department
-
 **Spring 2025 Dean’s List Award**
 
 **Second Place, Final Presentation of MACHI Program** | Mar. 2025<br>
