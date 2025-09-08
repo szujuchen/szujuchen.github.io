@@ -19,7 +19,7 @@ Here are some of my projects. To view more details and others, please visit [git
 - **Accepted by the SIGIR 2025 Short paper**
 - Technologies: Fine-tuning LLMs, Bi-Encoder models, prompt engineering, RAG
 <br>
-[Github](https://github.com/szujuchen/Information-Retrieval-and-Extraction_Final-Project) [Report](/files/IRIE_Report.pdf) [Paper](/files/SIGIR_Paper.pdf) [Poster](/files/SIGIR_Poster.pdf)
+[Github](https://github.com/szujuchen/Information-Retrieval-and-Extraction_Final-Project) [Report](/files/IRIE_Report.pdf) [Paper](https://dl.acm.org/doi/10.1145/3726302.3730246) [Poster](/files/SIGIR_Poster.pdf)
 
 ---
 
