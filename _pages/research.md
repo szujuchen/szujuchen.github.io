@@ -50,6 +50,6 @@ This project involved researching a new indexing strategy for image retrieval. I
 Key Results:
 - Designed and implemented a contrastive learning algorithm in both the VQVAE encoding step and the retrieval model learning step.
 - Experimented with different negative item selection strategies for contrastive learning, which included selecting random negatives, the highest probability negatives, and all negatives from the highest-ranking category.
-- Achieved an overall 2% improvement in the retrieval performance's F1 score. 
+- Achieved an overall 2% improvement in the retrieval performance. 
 
 [Github](https://github.com/szujuchen/Special-Research)
