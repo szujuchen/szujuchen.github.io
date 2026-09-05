@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Awards
 
-**Spring 2025 Dean’s List Award**
+**Spring 2025 Dean’s List Award**<br>
 Ranked 1st out of 147 students in the CSIE department
 
 **Second Place, Final Presentation of MACHI Program** | Mar. 2025<br>
