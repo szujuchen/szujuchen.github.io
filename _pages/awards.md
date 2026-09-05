@@ -7,6 +7,7 @@ author_profile: true
 # Awards
 
 **Spring 2025 Dean’s List Award**
+Ranked 1st out of 147 students in the CSIE department
 
 **Second Place, Final Presentation of MACHI Program** | Mar. 2025<br>
 Poster: *"A Dynamic Routing Framework for Multi-Agent Visual Question Understanding"*  [PDF](/files/machi_poster.pdf)
